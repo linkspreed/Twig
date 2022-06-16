@@ -19,7 +19,8 @@ Twig🔍 - the fastest and safest search engine📐 for the web🌐, images🤳,
  - 6 Preloaded search categories
  - Responsive theme with built in RTL and dark-mode support
  - Safe Search
- - Privacy first
+ - Privacy first+
+ 
 **AND SO MUCH MORE ...**
 
 ## More
