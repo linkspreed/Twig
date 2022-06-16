@@ -1,4 +1,4 @@
-# <img align="left" alt="Linkspreed" width="100px" src="https://www.linkspreed.com/themes/wondertag/img/logo.png" draggable="false" /> Linkspreed ([Click to try 🚀](https://www.linkspreed.com/))
+# <img align="left" alt="Twig" width="100px" src="https://twig.cf/site/uploads/2022/May/28/twig_favicon.png" draggable="false" /> Twig ([Click to try 🚀](https://twig.cf/))
 
 Linkspreed 🧡 - the heart and core of our projects 🚀- the largest social network 🌱that is oriented towards the future✨
 
