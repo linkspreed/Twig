@@ -1,10 +1,10 @@
 # <img align="left" alt="Twig" width="100px" src="https://twig.cf/site/uploads/2022/May/28/twig_favicon.png" draggable="false" /> Twig ([Click to try 🚀](https://twig.cf/))
 
-Linkspreed 🧡 - the heart and core of our projects 🚀- the largest social network 🌱that is oriented towards the future✨
+Twig🔍 - the fastest and safest search engine📐 for the web🌐, images🤳, news 📰and much more
 
 
-## **[Changelog 🧡](https://github.com/linkspreed/linkspreed.com/blob/main/changelog.md)** **Check out the full Linkspreed changelog**
-## **[Special Works 👨‍💻](https://github.com/linkspreed/linkspreed.com/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Linkspreed besides development**
+## **[Changelog 🌐](https://github.com/linkspreed/Twig/blob/main/changelog.md)** **Check out the full Twig changelog**
+## **[Special Works 👨‍💻](https://github.com/linkspreed/Twig/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Twig besides development**
 
 
 <div align="center">
@@ -14,28 +14,22 @@ Linkspreed 🧡 - the heart and core of our projects 🚀- the largest social ne
 
 ## Features
 
-- Anonymous and safe
-- Fast and easy to use
-- easy to get in touch with people
-- talk freely and openly with other people about specific content and topics
-- share whatever moves you
-- an intelligent messenger
-- 24 hour stories to capture short-term events
-- Live videos
-- call friends and stay in contact
+ - Searches the entire web or specific parts of the web
+ - Instant answers, Real time search auto-completion, rich snippets
+ - 6 Preloaded search categories
+ - Responsive theme with built in RTL and dark-mode support
+ - Safe Search
+ - Privacy first
 **AND SO MUCH MORE ...**
 
 ## More
  
-**Linkspreed** was developed for you. 
-Are you creative, 
-like to laugh or just 
-want to start the day relaxed? 
-Linkspreed is a social network where millions of users share their best moments, 
-show off their creativity and 
-put a smile on other people's faces.
+**Twig** was created by **Linkspreed**
+to enable you to search the entire web 
+anonymously, at lightning speed and securely 
+in a few seconds.
 
-Linkspreed is developed and provided by [Linkspreed 🚀](https://www.linkspreed.com/).
+Twig is developed and provided by [Linkspreed 🚀](https://www.linkspreed.com/).
 
  ```php
     We make sure that our code 
@@ -43,30 +37,13 @@ Linkspreed is developed and provided by [Linkspreed 🚀](https://www.linkspreed
     the platform works as well as possible.
 ```
 
- ```txt
-   We will soon be presenting
-   Linkspreed's API here on GitHub
-   as well :)
-```
- Register now on Linkspreed and immerse yourself in a network with no limits to creativity.
+Start your first search now and experience a completely new search experience.
 
 ## 📷 UI
 
 
-### Welcome :)
-<img align="center" alt="Linkspreed" width="3000px" src="https://github.com/linkspreed/linkspreed.com/blob/main/Screenshots/1.PNG" draggable="false" />
+### Search now
+<img align="center" alt="Twig" width="3000px" src="https://github.com/linkspreed/Twig/blob/main/Screenshots/1.PNG" draggable="false" />
 
-### News Feed
-<img align="center" alt="Linkspreed" width="3000px" src="https://github.com/linkspreed/linkspreed.com/blob/main/Screenshots/2.PNG" draggable="false" />
-
-### Profile
-<img align="center" alt="Linkspreed" width="3000px" src="https://github.com/linkspreed/linkspreed.com/blob/main/Screenshots/3.PNG" draggable="false" />
-
-### Chats
-<img align="center" alt="Linkspreed" width="3000px" src="https://github.com/linkspreed/linkspreed.com/blob/main/Screenshots/4.PNG" draggable="false" />
-
-### Dark Mode
-<img align="center" alt="Linkspreed" width="3000px" src="https://github.com/linkspreed/linkspreed.com/blob/main/Screenshots/5.PNG" draggable="false" />
-
-### General Settings
-<img align="center" alt="Linkspreed" width="3000px" src="https://github.com/linkspreed/linkspreed.com/blob/main/Screenshots/6.PNG" draggable="false" />
+### Settings
+<img align="center" alt="Twig" width="3000px" src="https://github.com/linkspreed/Twig/blob/main/Screenshots/2.PNG" draggable="false" />
