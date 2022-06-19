@@ -1,4 +1,8 @@
 # 19.06.2022
+  - Twig is working again, but isn't back on the Cloudflare network yet because that's where the problem is. 
+    We'll continue to monitor the site and then take care of it.
+
+# 19.06.2022
   - Due to an issue with Twig, we have temporarily disconnected the Cloudflare 
     network from our server and are monitoring our site's behavior for the next few hours.
 
