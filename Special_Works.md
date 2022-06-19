@@ -1,4 +1,8 @@
 # 19.06.2022
+  - We were able to locate and fix the root issue of Twig. 
+  - The search engine works fine again and uses the coudflare network.
+
+# 19.06.2022
   - Twig is working again, but isn't back on the Cloudflare network yet because that's where the problem is. 
     We'll continue to monitor the site and then take care of it.
 
