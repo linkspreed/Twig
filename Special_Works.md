@@ -1,4 +1,7 @@
 # 24.07.2022
+  - The first version (v1.0) of the Twig Release APK is in progress.
+
+# 24.07.2022
   - We are working on an Android app for Twig.
 
 # 19.06.2022
