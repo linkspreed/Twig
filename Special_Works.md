@@ -1,3 +1,6 @@
+# 24.07.2022
+  - We are working on an Android app for Twig.
+
 # 19.06.2022
   - We were able to locate and fix the root issue of Twig. 
   - The search engine works fine again and uses the coudflare network.
