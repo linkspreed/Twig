@@ -6,8 +6,8 @@ Twig🔍 - the fastest and safest search engine📐 for the web🌐, images🤳,
 ## **[Changelog 🌐](https://github.com/linkspreed/Twig/blob/main/changelog.md)** **Check out the full Twig changelog**
 ## **[Special Works 👨‍💻](https://github.com/linkspreed/Twig/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Twig besides development**
 
-<a href="https://play.google.com/store/apps/details?id=me.shouheng.notepal" target="_blank">
-<img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" alt="Get it on Google Play" height="90"/></a>
+<a href="https://twig.cf/apk/twig_release_1.0.apk" target="_blank">
+<img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" alt="Get the APK" height="90"/></a>
 
 
 <div align="center">
