@@ -1,4 +1,9 @@
 # 29.07.2022
+  - Or just use this link to download the Twig app.
+  - More options will follow in the next few days.
+  - https://twig.cf/apk/twig_release_1.0.apk
+
+# 29.07.2022
   - https://github.com/linkspreed/Twig
   - Download the twig app NOW... 😍
 
