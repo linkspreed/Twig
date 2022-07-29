@@ -7,7 +7,7 @@ Twig🔍 - the fastest and safest search engine📐 for the web🌐, images🤳,
 ## **[Special Works 👨‍💻](https://github.com/linkspreed/Twig/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Twig besides development**
 
 <a href="https://twig.cf/apk/twig_release_1.0.apk" target="_blank">
-<img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" alt="Get the APK" height="90"/></a>
+<img src="https://github.com/linkspreed/Twig/blob/main/Screenshots/download_button.png" alt="Get the APK" height="90"/></a>
 
 
 <div align="center">
