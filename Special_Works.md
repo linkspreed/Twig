@@ -1,3 +1,7 @@
+# 06.08.2022
+  - Here is the new logo of Twig.
+  - https://twig.cf/site/uploads/2022/May/28/twig_logo.png
+
 # 29.07.2022
   - Or just use this link to download the Twig app.
   - More options will follow in the next few days.
