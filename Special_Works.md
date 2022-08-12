@@ -1,4 +1,9 @@
 # 12.08.2022
+  - We changed the Twig.cf nameservers at short notice because of app.twig.cf.
+  - Now let's add the domain back to Cloudflare.
+  - Therefore the site will be offline for a few minutes.
+
+# 12.08.2022
   - The app.twig.cf page will be ready soon.
 
 # 12.08.2022
